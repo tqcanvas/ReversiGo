@@ -11,16 +11,16 @@ Command Prompt or Terminal. Please ensure your computer has an updated version o
 before running the program.
 
 For Windows OS:
-● Open Command Prompt
-● Run &quot;go get golang.org/x/sys/windows&quot;
-● Navigate to /ReversiMCTS/main folder
-● Run &quot;go run . &quot;
+* Open Command Prompt
+* Run &quot;go get golang.org/x/sys/windows&quot;
+* Navigate to /ReversiMCTS/main folder
+* Run &quot;go run . &quot;
 
 For Unix based OS:
-● Delete &quot;init\_windows.go&quot; from the ReversiMCTS/main folder
-● Open Terminal
-● Navigate to /ReversiMCTS/main folder
-● Run &quot;go run \*.go&quot;
+* Delete &quot;init\_windows.go&quot; from the ReversiMCTS/main folder
+* Open Terminal
+* Navigate to /ReversiMCTS/main folder
+* Run &quot;go run \*.go&quot;
 
 **Implementation Breakdown**
 I have broken up my Go code into 5 .go files for easier access to the implementation details of
